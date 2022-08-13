@@ -1,0 +1,25 @@
+
+body{
+    background-image: url(./pexels-pixabay-531880.jpg);
+    background-attachment: fixed;
+    color: #000000;
+    text-align: center;
+    size: 30px;
+    font-weight: bold;
+}
+
+table, thead, th, tr, td{                     /*this is for the entire table*/
+    border: 1px solid #1e90ff;
+    border-color: #1e90ff;
+    color: #1e8fff;
+    opacity: 0.9;    
+}
+
+table{                                       /*this is the entire table background*/
+    background-color:#000000;
+    
+}
+
+tr td{                                       /* all words in tr and td elements*/
+    text-align: center;
+}
